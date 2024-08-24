@@ -38,7 +38,6 @@ class Validation implements Theme,Auth
 
 public class interfaceInharitance
 {
-
     public static void main(String args[])
     {
         Scanner scanner=new Scanner(System.in);
@@ -49,6 +48,4 @@ public class interfaceInharitance
         validation.logout();
         System.out.println();
     }
-
-
 }
